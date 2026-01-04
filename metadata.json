@@ -1,0 +1,5 @@
+{
+  "name": "Veo Director",
+  "description": "A production-ready video generation suite using Google Veo 3. Create consistent scenes from JSON prompts.",
+  "requestFramePermissions": []
+}
